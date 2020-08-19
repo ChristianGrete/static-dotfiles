@@ -12,6 +12,7 @@ brew 'node'
 brew 'nvm'
 brew 'pinentry-mac'
 brew 'rustup-init'
+brew 'wasm-pack'
 brew 'yarn', args: ['ignore-dependencies']
 brew 'zsh'
 
